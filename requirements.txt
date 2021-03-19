@@ -1,6 +1,6 @@
 Django==2.2.4
 django-templated-mail==1.1.1
-djangorestframework==3.10.2
+djangorestframework==3.11.2
 djangorestframework-stubs==1.0.0
 djoser==2.0.1
 psycopg2==2.8.3
